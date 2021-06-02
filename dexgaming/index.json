@@ -5,6 +5,10 @@
         {
             "name": "william",
             "type": ".png"
-        }
-    ]
+        },
+        {
+            "name": "williamBIG",
+            "type": ".png"
+      }
+   ]
 }
