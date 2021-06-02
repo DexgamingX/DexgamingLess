@@ -1,0 +1,10 @@
+{
+    "name": "Dexgaming's Bois Pack",
+    "path": "dexgaming",
+    "emotes" : [
+        {
+            "name": "william",
+            "type": ".png"
+        }
+    ]
+}
