@@ -9,6 +9,14 @@
         {
             "name": "williamBIG",
             "type": ".png"
+        },
+        {
+            "name": "declan",
+            "type": ".png"
+        },
+        {
+            "name": "declanBIG",
+            "type": ".png"
         }
     ]
 }
