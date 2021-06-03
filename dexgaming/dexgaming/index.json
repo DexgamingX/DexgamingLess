@@ -3,6 +3,10 @@
     "path": "dexgaming",
     "emotes" : [
         {
+            "name": "The Bois Bois Bois",
+            "type": ".png"
+        },
+        {
             "name": "william",
             "type": ".png"
         },
